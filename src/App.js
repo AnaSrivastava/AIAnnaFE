@@ -13,7 +13,7 @@ window.onload = function() {
     selector: '.background',
     color: ['#DA0463', '#800000', '#191970'],
     connectParticles: true,
-    maxParticles:250
+    maxParticles:150
   });
 };
 const initialState={
